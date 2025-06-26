@@ -45,8 +45,8 @@ iterate = ["convergence_reg_C3D4_seed01"]
 
 software = 'Abaqus' # 'Ansys' or 'Abaqus'
 # software = 'Ansys' # 'Ansys' or 'Abaqus'
-s_patch = 1 
-p_order = 1
+s_patch = 2 
+p_order = 2
 # bool_s_geq_p2 = True # s >= p/2
 bool_s_geq_p2 = False # s >= p
 activation = 'polynomial'
